@@ -7,4 +7,4 @@
  *  Explotory analysis for the dataset: I asked some questions and answer it from Data visualization
  * conclusion
  * limitations
- 
+#### you can run the python file in jupyter notebook.
